@@ -1,0 +1,5 @@
+exercise:
+  one:
+    max_value: 100
+  two:
+    json-file: classpath:countries.json
