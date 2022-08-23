@@ -15,3 +15,5 @@ mvn clean install
 This command will compile the project and run all tests inside the project.
 
 Obs.: All the exercises are being executed and demonstrated by the test classes. After you compile the project, you can run each test individually in your preferred IDE.
+
+Obs.: Inside the "resources" folder, you'll have everithing to change the behavior of the tests. In application.yml I put two configs, one to Excercise One (the     max_value) and another to exercise two (the path of json file). You can change yet the json file, in order to change the results of the Exercise Two.
